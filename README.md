@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed677&label=Profile%20views&color=0e75b6&style=flat" alt="waleed677" /> </p>
 
-<p align="left"> <a href="https://twitter.com/waleed_awan1" target="blank"><img src="https://img.shields.io/twitter/follow/waleed_awan1?logo=twitter&style=for-the-badge" alt="waleed_awan1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/icodeideas_" target="blank"><img src="https://img.shields.io/twitter/follow/waleed_awan1?logo=twitter&style=for-the-badge" alt="icodeideas_" /></a> </p>
 
 - 🔭 I’m currently working on **NFT Dapp**
 
