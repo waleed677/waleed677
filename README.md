@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 📝 I regularly write articles on [twitter.com/waleed_awan1](twitter.com/waleed_awan1)
+- 📝 I regularly share tips on [twitter.com/icodeideas_](twitter.com/icodeideas_) && [instagram.com/icodeideas_](twitter.com/icodeideas_)
 
 - 💬 Ask me about **Web3 , Solidity, NFT's ,Dapps,Freelancing,**
 
