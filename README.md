@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.fiverr.com/waleed_arshad1**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/waleed-arshad-b111bb81/](https://www.linkedin.com/in/waleed-arshad-b111bb81/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/waleed-arshad-b111bb81/](https://www.linkedin.com/in/waleedarshadawan/)
 
 - ⚡ Fun fact **I think I'm Workholic**
 
